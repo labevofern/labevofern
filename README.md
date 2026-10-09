@@ -90,6 +90,50 @@ Nosso site oficial reúne informações institucionais, projetos de pesquisa, pu
 
 ---
 
+## 👥 Equipe de Manutenção | GitHub Maintainers
+
+<div align="center">
+
+Responsáveis pela organização, atualização e manutenção dos recursos científicos e computacionais do laboratório.
+
+*Responsible for organizing, updating, and maintaining the laboratory's scientific and computational resources.*
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="images/niksoney.jpg" width="130" alt="Niksoney A. Mendonça">
+      <br><br>
+      <b>Niksoney A. Mendonça</b>
+      <br>
+      <sub>GitHub Maintainer</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="images/david.png" width="130" alt="David Gutiérrez-Duque">
+      <br><br>
+      <b>David Gutiérrez-Duque</b>
+      <br>
+      <sub>GitHub Maintainer</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="images/thais.webp" width="130" alt="Thaís E. Almeida">
+      <br><br>
+      <b>Thaís E. Almeida</b>
+      <br>
+      <sub>GitHub Maintainer</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+🌿 *Supporting open science, collaboration, and reproducible research.*
+
+</div>
+
+---
+
 📍 Recife — Pernambuco — Brasil
 
 ✉️ **labevol.samambaias@ufpe.br**
