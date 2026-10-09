@@ -80,13 +80,15 @@ Os materiais disponibilizados neste perfil podem ser atualizados continuamente, 
 
 ### 🌿 Explore nossas pesquisas, equipe e atividades
 
-Nosso site oficial reúne informações institucionais, projetos de pesquisa, publicações e equipe .
+Nosso site oficial reúne informações institucionais, projetos de pesquisa, publicações e equipe.
 
 **Our official website provides information about our research, team and publications.**
 
 ### 👉 [ACESSE O SITE OFICIAL](https://labevofern.github.io/sitelab/)
 
 **https://labevofern.github.io/sitelab/**
+
+</div>
 
 ---
 
@@ -103,21 +105,21 @@ Responsáveis pela organização, atualização e manutenção dos recursos cien
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="images/niksoney.jpg" width="130" alt="Niksoney A. Mendonça">
+      <img src="images/niksoney.png" width="130" height="130" alt="Niksoney A. Mendonça">
       <br><br>
       <b>Niksoney A. Mendonça</b>
       <br>
       <sub>GitHub Maintainer</sub>
     </td>
     <td align="center" width="200">
-      <img src="images/david.png" width="130" alt="David Gutiérrez-Duque">
+      <img src="images/david-circular.png" width="130" height="130" alt="David Gutiérrez-Duque">
       <br><br>
       <b>David Gutiérrez-Duque</b>
       <br>
       <sub>GitHub Maintainer</sub>
     </td>
     <td align="center" width="200">
-      <img src="images/thais.webp" width="130" alt="Thaís E. Almeida">
+      <img src="images/thais.png" width="130" height="130" alt="Thaís E. Almeida">
       <br><br>
       <b>Thaís E. Almeida</b>
       <br>
@@ -133,6 +135,8 @@ Responsáveis pela organização, atualização e manutenção dos recursos cien
 </div>
 
 ---
+
+<div align="center">
 
 📍 Recife — Pernambuco — Brasil
 
