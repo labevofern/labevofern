@@ -59,7 +59,6 @@ Os repositórios abaixo reúnem diferentes recursos produzidos e utilizados nas 
 | Repositório | Conteúdo |
 |---|---|
 | 📄 [Articles](https://github.com/labevofern/Articles) | Projetos científicos, dados, códigos e materiais associados a pesquisas e publicações. |
-| 🎓 [COURSES](https://github.com/labevofern/COURSES) | Materiais didáticos, scripts e recursos utilizados em cursos e atividades de formação. |
 | 🌍 [Environmental-layers](https://github.com/labevofern/Environmental-layers) | Recursos e camadas ambientais utilizados em análises científicas. |
 | 💻 [sitelab](https://github.com/labevofern/sitelab) | Código-fonte e recursos de desenvolvimento do site institucional. |
 
@@ -81,9 +80,9 @@ Os materiais disponibilizados neste perfil podem ser atualizados continuamente, 
 
 ### 🌿 Explore nossas pesquisas, equipe e atividades
 
-Nosso site oficial reúne informações institucionais, projetos de pesquisa, publicações, equipe, notícias e atividades acadêmicas.
+Nosso site oficial reúne informações institucionais, projetos de pesquisa, publicações e equipe .
 
-**Our official website provides information about our research, team, publications, and academic activities.**
+**Our official website provides information about our research, team and publications.**
 
 ### 👉 [ACESSE O SITE OFICIAL](https://labevofern.github.io/sitelab/)
 
